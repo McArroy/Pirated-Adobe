@@ -8,4 +8,4 @@ If you encounter any issues with a previous installation/crack, please uninstall
 - C:\ProgramData\Adobe\SLStore
 
 # Links
-- [download.adobepremierepro2024](https://drive.google.com/drive/folders/1tlh44PfqDGvEubVu4tmU8Goj-kH7tkk4?usp=drive_link)
+- [Adobe Premiere Pro 2024](https://drive.google.com/drive/folders/1tlh44PfqDGvEubVu4tmU8Goj-kH7tkk4?usp=drive_link)
