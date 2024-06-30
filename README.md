@@ -10,7 +10,7 @@ By scrolling down in "Links to download" or by clicking [this](#links-to-downloa
 - Open "Set-up.exe"
 - And just follow the instructions to install the application as usual. **No need to configure or input anything.**
 
-## Note
+**Note**
 If you encounter any issues with a previous installation/crack, please uninstall and delete those folders:
 - C:\Program Files (x86)\Common Files\Adobe\SLCache
 - C:\ProgramData\Adobe\SLStore
