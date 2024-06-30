@@ -15,4 +15,4 @@ By scrolling down in "Links to download" or by clicking [this](#links-to-downloa
 - C:\ProgramData\Adobe\SLStore
 
 # Links to download
-- [Adobe Premiere Pro 2024](https://drive.google.com/drive/folders/1tlh44PfqDGvEubVu4tmU8Goj-kH7tkk4?usp=drive_link)
+- [Adobe Premiere Pro 2024](https://drive.google.com/file/d/1ovjED5dYjQzLCwdr5AXBheOtuacgTSWA/view?usp=drive_link)
