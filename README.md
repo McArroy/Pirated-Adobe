@@ -1,7 +1,10 @@
 # What is this?
 This repository contains pirated applications from Adobe with the latest versions.
 
-**Note: By downloading and using it, you are willing to do so at your own risk; getting malware, viruses, etc. is no longer my responsibility.**
+**Note: By downloading and using it, you are willing to do so at your own risk; getting malware, viruses, etc. is no longer my responsibility even though it has been stated that the applications are free from viruses and malware.**
+
+# How to download?
+By scrolling down in "Links to download" or by clicking [this](#links-to-download) and choose which application you want to download, and click the next link.
 
 # How to install?
 - Open "Set-up.exe"
